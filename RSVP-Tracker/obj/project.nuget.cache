@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FknzdjF6Sl0j7sPheJqSdTD9NzW99pe3uP7t0gaVXTVcOp40nhd0MlHWU/sP08aKefSMUzyMCStjiSJLsGAkuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raksha\\RSVP-Tracker\\RSVP-Tracker\\RSVP-Tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raksha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Raksha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Raksha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Raksha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Raksha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Raksha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
