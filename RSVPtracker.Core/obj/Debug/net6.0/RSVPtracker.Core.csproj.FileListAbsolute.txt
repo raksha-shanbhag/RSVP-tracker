@@ -10,3 +10,15 @@ C:\Users\Raksha\Desktop\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtrack
 C:\Users\Raksha\Desktop\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\refint\RSVPtracker.Core.dll
 C:\Users\Raksha\Desktop\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtracker.Core.pdb
 C:\Users\Raksha\Desktop\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\ref\RSVPtracker.Core.dll
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\bin\Debug\net6.0\RSVPtracker.Core.deps.json
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\bin\Debug\net6.0\RSVPtracker.Core.dll
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\bin\Debug\net6.0\RSVPtracker.Core.pdb
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtracker.Core.csproj.AssemblyReference.cache
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtracker.Core.AssemblyInfoInputs.cache
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtracker.Core.AssemblyInfo.cs
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtracker.Core.dll
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\refint\RSVPtracker.Core.dll
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\RSVPtracker.Core.pdb
+C:\Users\Raksha\Desktop\RSVPTracker\new\RSVP-tracker\RSVPtracker.Core\obj\Debug\net6.0\ref\RSVPtracker.Core.dll

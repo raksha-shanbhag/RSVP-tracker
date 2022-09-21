@@ -1794,11 +1794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RASVPtracker.Service\\RSVPtracker.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RASVPtracker.Service\\RSVPtracker.Infrastructure.csproj",
       "projectName": "RSVPtracker.Infrastructure",
-      "projectPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RASVPtracker.Service\\RSVPtracker.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RASVPtracker.Service\\RSVPtracker.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Raksha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RASVPtracker.Service\\obj\\",
+      "outputPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RASVPtracker.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1820,8 +1820,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj": {
-              "projectPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj"
+            "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj": {
+              "projectPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj"
             }
           }
         }

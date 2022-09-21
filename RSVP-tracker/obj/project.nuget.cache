@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bzt2QChroRRdPjwOKI8rL5GHBJlQo4QcV1FAExk/4UcPom1Qcil8hMb2s5TM4vOLQgQQ6p0Wyln44FfHdf4WuQ==",
+  "dgSpecHash": "kBIgK2VsMM90/BAHVQz4lsMnnwDwfXe7mqlDpumSDKm4y0BMM09cXyk+CjSq7wSqWhSZJKrbCNNde2Db6CF/YQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RSVP-tracker\\RSVP-tracker.csproj",
+  "projectFilePath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RSVP-tracker\\RSVP-tracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Raksha\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Raksha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

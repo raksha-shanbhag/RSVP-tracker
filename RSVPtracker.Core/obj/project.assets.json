@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj",
       "projectName": "RSVPtracker.Core",
-      "projectPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj",
+      "projectPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj",
       "packagesPath": "C:\\Users\\Raksha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RSVPtracker.Core\\obj\\",
+      "outputPath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RSVPtracker.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

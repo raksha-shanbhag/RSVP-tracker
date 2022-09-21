@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using RSVPtracker.Core.Interfaces;
+﻿using RSVPtracker.Core.Interfaces;
 using RSVPtracker.Core.Models;
 using RSVPtracker.Core.ViewModels;
 
@@ -8,19 +7,28 @@ namespace RSVP_tracker.Services
     public class UserService : IUserService
     {
         public IUnitOfWork _unitOfWork;
-        private readonly IMapper _mapper;
 
-        public UserService(IUnitOfWork unitOfWork, IMapper mapper)
+        public UserService(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
-            _mapper = mapper;
+        }
+
+        public User mapViewModelToUser(SaveUserViewModel userViewModel)
+        {
+            return new User
+            {
+                UserName = userViewModel.UserName,
+                PhoneNumber = userViewModel.PhoneNumber,
+                Email = userViewModel.Email,
+                FullName = userViewModel.FullName,
+            };
         }
 
         public async Task<bool> CreateNewUser(SaveUserViewModel userViewModel)
         {
             if (!(userViewModel is null))
             {
-                var newUser = _mapper.Map<User>(userViewModel);
+                var newUser = mapViewModelToUser(userViewModel);
                 newUser.CreatedDate = DateTime.Now;
                 newUser.CreatedBy = 1;
                 await _unitOfWork.Users.Add(newUser);
@@ -54,7 +62,17 @@ namespace RSVP_tracker.Services
             return false;
         }
 
-        public List<UserViewModel> mapper_userView(List<User> userList)
+        public UserViewModel mapper_userView(User user)
+        {
+            return new UserViewModel() {
+                FullName = user.FullName,
+                UserName = user.UserName,
+                PhoneNumber = user.PhoneNumber,
+                Email = user.Email
+            };
+        }
+
+        public List<UserViewModel> mapper_userViewList(List<User> userList)
         {
             var result = new List<UserViewModel>();
             foreach (var user in userList)
@@ -96,7 +114,7 @@ namespace RSVP_tracker.Services
                 var user = await _unitOfWork.Users.Get(userId);
                 if (!(user is null))
                 {
-                    return _mapper.Map<UserViewModel>(user);
+                    return mapper_userView(user);
                 }
             }
             return null;

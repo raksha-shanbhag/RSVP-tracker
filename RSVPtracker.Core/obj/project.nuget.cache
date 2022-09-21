@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R2K4XvbbJvYEfmQereXgGlXjDoTZ1LuOcaaqQzr3an4Tb+pBQdNT6E+ztvMOW67Pn7+nAweabxgcCXeq8RH9CQ==",
+  "dgSpecHash": "AaWjHaYM5OAfRtGUOlNu4GxXGE1yH/oUKA1ANqAfKMdHJ0hyg5lARtnN30kVkuO0hbdIfvoHFypuJaTf0zDuSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\old\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj",
+  "projectFilePath": "C:\\Users\\Raksha\\Desktop\\RSVPTracker\\new\\RSVP-tracker\\RSVPtracker.Core\\RSVPtracker.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
